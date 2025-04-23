@@ -13,10 +13,10 @@ El proyecto consiste en una única página HTML que presenta información organi
 
 - Título de la película
 - Sinopsis
+-Trailer oficial
 - Elenco principal
 - Premios y nominaciones
-- Año de estreno y duración
-- Trailer de la película (video)
+- Video relacionado de la pelicula
 - Imágenes relacionadas
 - Enlaces a fuentes externas (IMDb, Wikipedia)
 - Créditos de los autores
@@ -37,6 +37,7 @@ El proyecto consiste en una única página HTML que presenta información organi
 ├── assets/
 │   ├── images/              # Imágenes relacionadas con la película
 │   ├── videos/              # Video relevante de la película
+│   ├── audio/               # Soundtrack de la película
 └── README.md                # Este archivo
 ```
 
@@ -45,6 +46,6 @@ El proyecto consiste en una única página HTML que presenta información organi
 Este proyecto fue realizado por:
 
 - Dylan Acevedo
-- Ywhrr Suarez
+- Yhwrr Suarez
 
 Los nombres también están incluidos en la página HTML dentro de una sección semántica apropiada (`<footer>`).
